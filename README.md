@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello. My name is Siyan Zuhayer and I'm a student at RPI majoring in computer science and ITWS.
 
 <!--
 **Meep633/meep633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
